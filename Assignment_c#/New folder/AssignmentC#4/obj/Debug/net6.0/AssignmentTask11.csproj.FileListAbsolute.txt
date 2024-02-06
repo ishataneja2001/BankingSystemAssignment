@@ -1,0 +1,14 @@
+F:\VS File\Solution1\AssignmentTask11\obj\Debug\net6.0\AssignmentTask11.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS File\Solution1\AssignmentTask11\obj\Debug\net6.0\AssignmentTask11.AssemblyInfoInputs.cache
+F:\VS File\Solution1\AssignmentTask11\obj\Debug\net6.0\AssignmentTask11.AssemblyInfo.cs
+F:\VS File\Solution1\AssignmentTask11\obj\Debug\net6.0\AssignmentTask11.csproj.CoreCompileInputs.cache
+F:\VS File\Solution1\AssignmentTask11\bin\Debug\net6.0\AssignmentTask11.exe
+F:\VS File\Solution1\AssignmentTask11\bin\Debug\net6.0\AssignmentTask11.deps.json
+F:\VS File\Solution1\AssignmentTask11\bin\Debug\net6.0\AssignmentTask11.runtimeconfig.json
+F:\VS File\Solution1\AssignmentTask11\bin\Debug\net6.0\AssignmentTask11.dll
+F:\VS File\Solution1\AssignmentTask11\bin\Debug\net6.0\AssignmentTask11.pdb
+F:\VS File\Solution1\AssignmentTask11\obj\Debug\net6.0\AssignmentTask11.dll
+F:\VS File\Solution1\AssignmentTask11\obj\Debug\net6.0\refint\AssignmentTask11.dll
+F:\VS File\Solution1\AssignmentTask11\obj\Debug\net6.0\AssignmentTask11.pdb
+F:\VS File\Solution1\AssignmentTask11\obj\Debug\net6.0\AssignmentTask11.genruntimeconfig.cache
+F:\VS File\Solution1\AssignmentTask11\obj\Debug\net6.0\ref\AssignmentTask11.dll
